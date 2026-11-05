@@ -48,7 +48,12 @@ student-directory-frontend/
 │   └── 07-protected-route-after-logout.png
 │   └── 08-login-after-logout.png
 │   └── 09-new-account-registration-login.png
+<<<<<<< HEAD
 │   └── 10-duplicate-email-registration.png
+=======
+│   └── 09-10-duplicate-email-registration.png
+
+>>>>>>> 6047510 (Update README screenshot documentation)
 
 ├── src/
 │   ├── components/
