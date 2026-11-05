@@ -45,6 +45,11 @@ student-directory-frontend/
 │   ├── 04-failed-login.png
 │   ├── 05-protected-route.png
 │   └── 06-network-authorization.png
+│   └── 07-protected-route-after-logout.png
+│   └── 08-login-after-logout.png
+│   └── 09-new-account-registration-login.png
+│   └── 09-10-duplicate-email-registration.png
+
 ├── src/
 │   ├── components/
 │   ├── context/
